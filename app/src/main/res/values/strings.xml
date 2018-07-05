@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">javaQuiz</string>
+    <string name="quiz_description">This set of Java Multiple Choice Questions and Answers (MCQs) focuses on basic of java. There is only one correct option for each question. </string>
+    <string name="question1">Which is a reserved word in the Java programming language?</string>
+    <string name="question2">Which one of the following will declare an array and initialize it with five numbers?</string>
+    <string name="question3">Which is the valid declarations within an interface definition?</string>
+    <string name="question4">Which one is a valid declaration of a boolean?</string>
+    <string name="question5">What is the numerical range of a char?</string>
+    <string name="question6">Which of these is long data type literal?</string>
+    <string name="question7">Which of these can be returned by the operator | ?</string>
+    <string name="question8">Literals in java must be appended by which of these?</string>
+    <string name="question9">Literal can be of which of these data types?</string>
+    <string name="question10">Which of these is necessary condition for automatic type conversion in Java?</string>
+
+    <!--question 1 options-->
+    <string name="q1_option1">method</string>
+    <string name="q1_option2">native</string>
+    <string name="q1_option3">reference</string>
+    <string name="q1_option4">array</string> /
+
+    <!--question 2 options-->
+    <string name="q2_option1">Array a = new Array(5);</string>
+    <string name="q2_option2">int [] a = {23,22,21,20,19};</string> /
+    <string name="q2_option3">int a [] = new int[5];</string>
+    <string name="q2_option4">int [5] array;</string>
+
+    <!--question 3 options-->
+    <string name="q3_option1">public double methoda();</string> /
+    <string name="q3_option2">public final double methoda();</string>
+    <string name="q3_option3">static void methoda(double d1);</string>
+    <string name="q3_option4">protected void methoda(double d1);</string>
+
+    <!--question 4 options-->
+    <string name="q4_option1">boolean b1 = 0;</string>
+    <string name="q4_option2">boolean b2 = \'false\';</string>
+    <string name="q4_option3">boolean b3 = false;</string> /
+    <string name="q4_option4">boolean b4 = Boolean.false();</string>
+
+    <!--question 5 options-->
+    <string name="q5_option1">-128 to 127</string>
+    <string name="q5_option2">-(2^15) to (2^15)-1</string>
+    <string name="q5_option3">0 to 32767</string>
+    <string name="q5_option4">0 to 65535</string> /
+
+    <!--question 6 options-->
+    <string name="q6_option1">0x99fffL</string> /
+    <string name="q6_option2">ABCDEFG</string>
+    <string name="q6_option3">0x99fffa</string>
+    <string name="q6_option4">99671246</string>
+
+    <!--question 7 options-->
+    <string name="q7_option1">Integer</string>
+    <string name="q7_option2">Boolean</string>
+    <string name="q7_option3">Character</string>
+    <string name="q7_option4">Integer or Boolean</string>
+
+    <!--question 8 options-->
+    <string name="q8_option1">L</string>
+    <string name="q8_option2">I</string>
+    <string name="q8_option3">D</string>
+    <string name="q8_option4">L and I</string>
+
+    <!--question 9 options-->
+    <string name="q9_option1">integer</string>
+    <string name="q9_option2">float</string>
+    <string name="q9_option3">boolean</string>
+    <string name="q9_option4">Class Object</string>
+
+    <!--question 10 options-->
+    <string name="q10_option1">The destination type is smaller than source type</string>
+    <string name="q10_option2">The destination type is larger than source type</string>
+    <string name="q10_option3">The destination type can be larger or smaller than source type</string>
+    <string name="q10_option4">None of the mentioned</string>
+
+    <string name="poor">Poor ! need more practice.</string>
+    <string name="good">Good , You are at beginner level.</string>
+    <string name="excellent">Excellent ! You are developer now.</string>
+
+</resources>
